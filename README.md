@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LICENSE](https://img.shields.io/github/license/yangjx29/awesome-MLLM-Content-Understanding)](https://github.com/yangjx29/awesome-MLLM-Content-Understanding/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/yangjx29/awesome-MLLM-Content-Understanding)](https://github.com/yangjx29/awesome-MLLM-Content-Understanding/blob/master/LICENSE)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![commit](https://img.shields.io/github/last-commit/yangjx29/awesome-MLLM-Content-Understanding?color=blue)](https://github.com/yangjx29/awesome-MLLM-Content-Understanding/commits/master)
 [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/yangjx29/awesome-MLLM-Content-Understanding/pulls)
