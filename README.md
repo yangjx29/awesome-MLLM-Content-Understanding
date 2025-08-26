@@ -18,6 +18,11 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
 ---
 
+<!-- ### 2024
+1. **[paper](url)**  
+   *Meeting Name If Any* [[code]()]  
+   TL;DR: `` -->
+
 ### Contents:
 
 - [FGVR/FGVC](#1-fgvrfgvc)
@@ -27,6 +32,12 @@ We believe that multimodal-based content understanding is still a largely unexpl
 ---
 
 ### 1. FGVR/FGVC
+
+### 2025 
+1. **[Vocabulary-free Fine-grained Visual Recognition via Enriched Contextually Grounded Vision-Language Model](https://www.arxiv.org/abs/2507.23070)**  
+   *ICCV 2025* [[code](https://github.com/demidovd98/e-finer)]  
+   TL;DR: `Training-free, Vocabulary-free,Resource-constrained Settings`
+
 
 ### 2024
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
