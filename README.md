@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome MLLM Content Understanding</h1>
+<h1 align="center"> Awesome MLLM Hallucination</h1>
 
 <div align="center">
 
