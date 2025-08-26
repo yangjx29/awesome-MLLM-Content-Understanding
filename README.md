@@ -37,12 +37,32 @@ We believe that multimodal-based content understanding is still a largely unexpl
 1. **[Vocabulary-free Fine-grained Visual Recognition via Enriched Contextually Grounded Vision-Language Model](https://www.arxiv.org/abs/2507.23070)**  
    *ICCV 2025* [[code](https://github.com/demidovd98/e-finer)]  
    TL;DR: `Training-free, Vocabulary-free,Resource-constrained Settings`
-
+   
+1. <u>[**DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**](https://arxiv.org/abs/2504.14920)</u>
+   
+   *CVPR* 2025[[<u>code</u>](https://github.com/PKU-ICST-MIPL/DyFo_CVPR2025)]
+   
+   TL;DR: `Training-free,visual search,using a Monte Carlo Tree Search (MCTS) algorithm to simulate human-like focus adjustments`
 
 ### 2024
+
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
    *ICLR 2024* [[code](https://github.com/OatmealLiu/FineR)]  
    TL;DR: `Proposes a training-free pipeline leveraging LLM reasoning to democratize fine-grained visual recognition in open-vocabulary settings`
+
+2. **<u>Label Propagation for Zero-shot Classification with Vision-Language Models</u>**[](https://arxiv.org/abs/2404.04072)
+
+   *CVPR* 2024[[code](https://github.com/vladan-stojnic/ZLaP)]
+
+   TL;DR: `Zero-shot Classification,label propagation,leverage the graph structure of the unlabeled data`
+
+### 2023
+
+1. **[Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP](https://proceedings.neurips.cc/paper_files/paper/2023/hash/50a057e9fe79ffa3f4120fb6fb88071a-Abstract-Conference.html)**
+
+   *NeurIPS* 2023
+
+   TL;DR:`zeroshot visual categorizations,intra-modal proxy learning`
 
 
 ---
