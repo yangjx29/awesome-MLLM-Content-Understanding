@@ -50,7 +50,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
    *ICLR 2024* [[code](https://github.com/OatmealLiu/FineR)]  
    TL;DR: `Proposes a training-free pipeline leveraging LLM reasoning to democratize fine-grained visual recognition in open-vocabulary settings`
 
-2. **<u>Label Propagation for Zero-shot Classification with Vision-Language Models</u>**[](https://arxiv.org/abs/2404.04072)
+2. **[Label Propagation for Zero-shot Classification with Vision-Language Models](https://arxiv.org/abs/2404.04072)**
 
    *CVPR* 2024[[code](https://github.com/vladan-stojnic/ZLaP)]
 
