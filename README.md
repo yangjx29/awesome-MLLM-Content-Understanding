@@ -58,7 +58,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
 ### 2023
 
-1. **[Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP](https://proceedings.neurips.cc/paper_files/paper/2023/hash/50a057e9fe79ffa3f4120fb6fb88071a-Abstract-Conference.html)**
+1. **[Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP](https://arxiv.org/abs/2310.19752)**
 
    *NeurIPS* 2023
 
