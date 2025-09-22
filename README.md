@@ -66,7 +66,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
    *ICLR 2024* [[code](https://github.com/OatmealLiu/FineR)]  
-   TL;DR: ` Training-free pipeline, Leveraging LLM reasoning to democratize fine-grained visual recognition in open-vocabulary settings`
+   TL;DR: ` Proposes a training-free pipeline leveraging LLM reasoning to democratize fine-grained visual recognition in open-vocabulary settings`
 
 2. **[Label Propagation for Zero-shot Classification with Vision-Language Models](https://arxiv.org/abs/2404.04072)**
 
