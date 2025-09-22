@@ -104,12 +104,6 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`Intra-category Distinctiveness，Inter-category Similarity,Hypergraph-guided Intra- and Inter-category Relation Modeling,Hypergraph-guided Structure Learning,Inter-category Relation Perception`
 
-8. [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/abs/2407.21771)
-
-   *arxiv 2024*[[code](https://github.com/LALBJ/PAI)]
-
-   TL;DR:`Hallucination Mitigation,Visual Prominence Enhancementz,Image Token Attention Adjustment,Logit Subtraction,Model Integration Imbalance`
-
 ### 2023
 
 1. **[Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP](https://arxiv.org/abs/2310.19752)**
