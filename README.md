@@ -62,6 +62,12 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`Training-Free Multimodal Retrieval,Category-Discriminative Visual Captioner,Reference-Guided Chain-of-Thought,Similarity-Based Retrieval`
 
+1. [**Enhancing Zero-Shot Image Recognition in Vision-Language  Models through Human-like Concept Guidance**](https://arxiv.org/abs/2503.15886)
+
+   *arxiv 2025*
+
+   TL;DR:`Concept-guided Human-like Bayesian Reasoning,Importance Sampling,Leveraging priors,Bayes’ Theorem`
+
 ### 2024
 
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
