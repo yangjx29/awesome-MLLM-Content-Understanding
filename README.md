@@ -146,6 +146,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
    
    TL;DR:`todo`
 
+
 ### 2023
 
 1. **[Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP](https://arxiv.org/abs/2310.19752)**
