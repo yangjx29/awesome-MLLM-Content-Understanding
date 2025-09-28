@@ -131,16 +131,19 @@ We believe that multimodal-based content understanding is still a largely unexpl
 8. [**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**](https://arxiv.org/abs/2505.01064)
 
    *NeurIPS 2024 Workshop*
+
    TL;DR:`todo`
 
 9. [**Interweaving Insights: High-Order Feature Interaction for Fine-Grained Visual Recognition**](https://link.springer.com/article/10.1007/s11263-024-02260-y)
 
    *Springer 2024*[[code](https://github.com/Arindam-1991/I2-HOFI)]
+
    TL;DR:`todo`
 
 10. [**Hypergraph-guided Intra- and Inter-category Relation Modeling for Fine-grained Visual Recognition**](https://dl.acm.org/doi/10.1145/3664647.3680589)
 
    *ACM DL 2024*
+   
    TL;DR:`todo`
 
 ### 2023
