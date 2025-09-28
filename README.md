@@ -68,6 +68,24 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`Concept-guided Human-like Bayesian Reasoning,Importance Sampling,Leveraging priors,Bayes’ Theorem`
 
+1. [**Knowledge-driven baseline for few-shot fine-grained visual recognition**](https://www.sciencedirect.com/science/article/pii/S0925231225019745)
+
+   *ScienceDirect 2025*
+
+   TL;DR:`todo`
+
+1. [**Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models**](https://arxiv.org/abs/2501.15140)
+
+   *ICLR 2025*[[code](https://github.com/PKU-ICST-MIPL/Finedefics_ICLR2025)]
+
+   TL;DR:`todo`
+
+1. [**GLEM: a global–local enhancement method for fine-grained image recognition with attention erasure and multi-view cropping**](https://link.springer.com/article/10.1007/s44443-025-00120-4)
+
+   *springer 2025*
+
+   TL;DR:`todo`
+
 ### 2024
 
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
@@ -109,6 +127,21 @@ We believe that multimodal-based content understanding is still a largely unexpl
    *arxiv 2024*
 
    TL;DR:`Intra-category Distinctiveness，Inter-category Similarity,Hypergraph-guided Intra- and Inter-category Relation Modeling,Hypergraph-guided Structure Learning,Inter-category Relation Perception`
+
+8. [**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**](https://arxiv.org/abs/2505.01064)
+
+   *NeurIPS 2024 Workshop*
+   TL;DR:`todo`
+
+9. [**Interweaving Insights: High-Order Feature Interaction for Fine-Grained Visual Recognition**](https://link.springer.com/article/10.1007/s11263-024-02260-y)
+
+   *Springer 2024*[[code](https://github.com/Arindam-1991/I2-HOFI)]
+   TL;DR:`todo`
+
+10. [**Hypergraph-guided Intra- and Inter-category Relation Modeling for Fine-grained Visual Recognition**](https://dl.acm.org/doi/10.1145/3664647.3680589)
+
+   *ACM DL 2024*
+   TL;DR:`todo`
 
 ### 2023
 
