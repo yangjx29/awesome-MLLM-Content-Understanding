@@ -115,7 +115,9 @@ We believe that multimodal-based content understanding is still a largely unexpl
 ### 2024
 
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
-   *ICLR 2024* [[code](https://github.com/OatmealLiu/FineR)]  
+
+   *ICLR 2024* [[code](https://github.com/OatmealLiu/FineR)] 
+
    TL;DR: ` Proposes a training-free pipeline leveraging LLM reasoning to democratize fine-grained visual recognition in open-vocabulary settings`
 
 1. **[Label Propagation for Zero-shot Classification with Vision-Language Models](https://arxiv.org/abs/2404.04072)**
@@ -136,7 +138,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`Two-Stage Prompting,Automated Prompt Generations,Prompt Ensembling`
 
-1. **[Retrieval-enriched zero-shot image classification in low-resource domains](https://arxiv.org/abs/2411.00988)**
+1. [**Retrieval-enriched zero-shot image classification in low-resource domains**](https://arxiv.org/abs/2411.00988)
 
    *EMNLP 2024*[[code](https://github.com/Fodark/CoRE)]
 
@@ -144,7 +146,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
 1. [**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**](https://arxiv.org/abs/2405.11301)
 
-   *EMNLP  finding 2024*
+   *EMNLP Finding 2024*
 
    TL;DR:`CLIP–LVLM Integration,Candidate Class Ranking,Few-Shot Classification,Contextual Prompt Construction,Adaptive Entropy Threshold`
 
@@ -174,9 +176,9 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
 1. [**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**](https://arxiv.org/abs/2405.11301)
 
-*EMNLP Finding 2024*
+   *EMNLP Finding 2024*
 
-TL;DR:`todo`
+   TL;DR:`todo`
 
 1. [**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of  Multimodal LLMs**](https://arxiv.org/abs/2505.01064)
 
@@ -206,8 +208,8 @@ TL;DR:`todo`
 
 1. [**Vocabulary-free Image Classification**](https://arxiv.org/abs/2306.00917)
 
-*NeurIPS 2023*[[code](https://github.com/altndrr/vic)]
+   *NeurIPS 2023*[[code](https://github.com/altndrr/vic)]
 
-TL;DR:`todo`
+   TL;DR:`todo`
 
 ---
