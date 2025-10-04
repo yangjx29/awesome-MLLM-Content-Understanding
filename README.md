@@ -11,8 +11,7 @@
 </div>
 
 A curated collection of papers on **Multimodal Content Understanding (MCU)**,  
-including **Fine-Grained Visual Recognition/Classification (FGVR/FGVC)**,  
-**Content Moderation with Collaborative Large and Small Models**, etc.  
+including **Fine-Grained Visual Recognition/Classification (FGVR/FGVC)**,etc.  
 
 We believe that multimodal-based content understanding is still a largely unexplored field,  and we hope this repository will provide you with some valuable insights!  
 
@@ -27,7 +26,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
 - [FGVR/FGVC](#1-fgvrfgvc)
 
-- [Content Moderation with Collaborative Large and Small Models](#2-content-moderation-with-collaborative-large-and-small-models)
+<!-- - [Content Moderation with Collaborative Large and Small Models](#2-content-moderation-with-collaborative-large-and-small-models) -->
 
 ---
 
@@ -56,7 +55,7 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`Dynamic Multimodal Prototypes,Test-Time Adaptation,Visual Particles Updating,Optimal Transport`
 
-1. **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136)**
+1. [**UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval**](https://arxiv.org/abs/2508.04136)
 
    *arxiv 2025*
 
@@ -86,66 +85,110 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`todo`
 
+1. [**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery**](https://arxiv.org/abs/2503.16782)
+
+   *arxiv 2025*
+
+   TL;DR:`todo`
+
+1. [**TLAC: Two-stage LMM Augmented CLIP for Zero-Shot Classification**](https://arxiv.org/abs/2503.12206)
+
+   *CVPRW 2025*[[code](https://github.com/ans92/TLAC)]
+
+   TL;DR:`todo`
+
+
+1. [**Rethinking Attention Mechanism: Channel Re-attention and Spatial Multi-region Attention for Fine-grained Visual Classification**](https://www.researchgate.net/publication/390990124_Rethinking_Attention_Mechanism_Channel_Re-attention_and_Spatial_Multi-region_Attention_for_Fine-grained_Visual_Classification)
+
+   *researchgate 2025*
+
+   TL;DR:`todo`
+
+
+1. [**Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discoveryn**](https://arxiv.org/abs/2503.16782)
+
+   *arxiv 2025*
+
+   TL;DR:`todo`
+
+
 ### 2024
 
 1. **[Democratizing Fine-grained Visual Recognition with Large Language Models](https://arxiv.org/abs/2401.13837)**  
    *ICLR 2024* [[code](https://github.com/OatmealLiu/FineR)]  
    TL;DR: ` Proposes a training-free pipeline leveraging LLM reasoning to democratize fine-grained visual recognition in open-vocabulary settings`
 
-2. **[Label Propagation for Zero-shot Classification with Vision-Language Models](https://arxiv.org/abs/2404.04072)**
+1. **[Label Propagation for Zero-shot Classification with Vision-Language Models](https://arxiv.org/abs/2404.04072)**
 
    *CVPR 2024*[[code](https://github.com/vladan-stojnic/ZLaP)]
 
    TL;DR: `Zero-shot Classification,Label propagation,leverage the graph structure of the unlabeled data`
 
-3. [**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**](https://arxiv.org/abs/2407.04603)
+1. [**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**](https://arxiv.org/abs/2407.04603)
 
    *NeurIPS 2024*[[code](https://github.com/MCG-NJU/AWT)]
 
    TL;DR:`Visual-Text Mutual Augmentation,Entropy Weighting,Optimal Transport`
 
-4. [**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**](https://arxiv.org/abs/2403.11755)
+1. [**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**](https://arxiv.org/abs/2403.11755)
 
    *ECCV 2024*[[code](https://github.com/jmiemirza/Meta-Prompting)]
 
    TL;DR:`Two-Stage Prompting,Automated Prompt Generations,Prompt Ensembling`
 
-5. **[Retrieval-enriched zero-shot image classification in low-resource domains](https://arxiv.org/abs/2411.00988)**
+1. **[Retrieval-enriched zero-shot image classification in low-resource domains](https://arxiv.org/abs/2411.00988)**
 
    *EMNLP 2024*[[code](https://github.com/Fodark/CoRE)]
 
    TL;DR:`Retrieval-Enriched Representation,Low-Resource Domains,Textual Information Retrieval,Contextual Prototype Enrichment`
 
-6. [**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**](https://arxiv.org/abs/2405.11301)
+1. [**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**](https://arxiv.org/abs/2405.11301)
 
    *EMNLP  finding 2024*
 
    TL;DR:`CLIP–LVLM Integration,Candidate Class Ranking,Few-Shot Classification,Contextual Prompt Construction,Adaptive Entropy Threshold`
 
-7. [**Hypergraph-guided Intra- and Inter-category Relation Modeling for Fine-grained Visual Recognition**](https://dl.acm.org/doi/abs/10.1145/3664647.3680589)
+1. [**Hypergraph-guided Intra- and Inter-category Relation Modeling for Fine-grained Visual Recognition**](https://dl.acm.org/doi/abs/10.1145/3664647.3680589)
 
    *arxiv 2024*
 
    TL;DR:`Intra-category Distinctiveness，Inter-category Similarity,Hypergraph-guided Intra- and Inter-category Relation Modeling,Hypergraph-guided Structure Learning,Inter-category Relation Perception`
 
-8. [**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**](https://arxiv.org/abs/2505.01064)
+1. [**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**](https://arxiv.org/abs/2505.01064)
 
    *NeurIPS 2024 Workshop*
 
    TL;DR:`todo`
 
-9. [**Interweaving Insights: High-Order Feature Interaction for Fine-Grained Visual Recognition**](https://link.springer.com/article/10.1007/s11263-024-02260-y)
+1. [**Interweaving Insights: High-Order Feature Interaction for Fine-Grained Visual Recognition**](https://link.springer.com/article/10.1007/s11263-024-02260-y)
 
    *Springer 2024*[[code](https://github.com/Arindam-1991/I2-HOFI)]
 
    TL;DR:`todo`
 
-10. [**Hypergraph-guided Intra- and Inter-category Relation Modeling for Fine-grained Visual Recognition**](https://dl.acm.org/doi/10.1145/3664647.3680589)
+1. [**Hypergraph-guided Intra- and Inter-category Relation Modeling for Fine-grained Visual Recognition**](https://dl.acm.org/doi/10.1145/3664647.3680589)
 
    *ACM DL 2024*
    
    TL;DR:`todo`
 
+1. [**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**](https://arxiv.org/abs/2405.11301)
+
+*EMNLP Finding 2024*
+
+TL;DR:`todo`
+
+1. [**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of  Multimodal LLMs**](https://arxiv.org/abs/2505.01064)
+
+   *NeurIPS 2024*
+
+   TL;DR:`todo`
+
+1. [**RAR: Retrieving And Ranking Augmented  MLLMs for Visual Recognition**](https://arxiv.org/abs/2403.13805)
+
+   *arxiv 2024*[[code](https://github.com/Liuziyu77/RAR)]
+
+   TL;DR:`todo`
 
 ### 2023
 
@@ -161,9 +204,10 @@ We believe that multimodal-based content understanding is still a largely unexpl
 
    TL;DR:`Training-Free Name-Only Transfer,Few-Shot Learning,Zero-Shot Classification,TIP-X Module`
 
+1. [**Vocabulary-free Image Classification**](https://arxiv.org/abs/2306.00917)
+
+*NeurIPS 2023*[[code](https://github.com/altndrr/vic)]
+
+TL;DR:`todo`
 
 ---
-
-
-### 2. Content Moderation with Collaborative Large and Small Models
-1. 
